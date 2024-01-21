@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozanyilmazdev&label=Profile%20views&color=000000&style=flat" alt="ozanyilmazdev" /> </p>
 
-- 🔭 I’m currently working on **Gamer Girl**
+- 🔭 I’m currently working on **Gym Camp Simulator*
 
-- 🌱 I’m currently learning **Unity Photon Networking & Programming Design Principles**
+- 🌱 I’m currently learning **Build System**
 
 - 💬 Ask me about **Game Development, Unity**
 
