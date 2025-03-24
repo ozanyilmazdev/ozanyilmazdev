@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozanyilmazdev&label=Profile%20views&color=000000&style=flat" alt="ozanyilmazdev" /> </p>
 
-- 🔭 I’m currently working on *Overdose*
+- 🔭 I’m currently working on **Overdose**
 
 - 🌱 I’m currently learning **Combat System**
 
