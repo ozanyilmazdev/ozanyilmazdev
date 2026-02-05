@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Monster Shop Simulator**
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I’m currently learning **RPG Systems**
 
 - 💬 Ask me about **Game Development, Unity**
 
